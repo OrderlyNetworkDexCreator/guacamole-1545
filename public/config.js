@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Leaderboard,Portfolio",
-  "VITE_CUSTOM_MENUS": "Main Portal, https://guacamole.gg",
+  "VITE_CUSTOM_MENUS": "Main Portal, https://guacamole.gg; Play Games, https://guacamole.gg/play",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/guacgg",
   "VITE_DISCORD_URL": "https://discord.gg/MjdtaGXCVY",
