@@ -12,7 +12,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "ac7b82317e5d4f8cde4fb3f707a72565",
   "VITE_APP_NAME": "guacamole",
   "VITE_APP_DESCRIPTION": "Trade crypto perpetuals directly onchain with Guacamole. Enjoy lightning-fast execution, deep liquidity, and transparent, non-custodial trading on your favorite assets — all powered by DeFi.",
   "VITE_HAS_PRIMARY_LOGO": "true",
